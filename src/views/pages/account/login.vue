@@ -227,7 +227,7 @@ export default {
 
 .left-section {
   flex: 1;
-  background: linear-gradient(135deg, #1e88e5 0%, #1565c0 100%);
+  background: linear-gradient(135deg, #b6d8f6 0%, #0487f9 100%);
   position: relative;
 }
 
@@ -238,7 +238,7 @@ export default {
   right: 0;
   width: 200px;
   height: 200px;
-  background: rgba(255, 255, 255, 0.1);
+  /* background: rgba(255, 255, 255, 0.1); */
   border-radius: 50% 0 0 0;
 }
 
